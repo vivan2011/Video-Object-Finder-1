@@ -1,0 +1,42 @@
+.heading
+{
+    font-size: 25px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px grey;
+    font-weight: 800;
+}
+
+.note
+{
+    font-size: 15px;
+    color:black;
+    background-color: goldenrod;
+    font-weight: normal;
+}
+
+.footer{
+    position:fixed;
+    bottom:0;
+    line-height: 3;
+    width:100%;
+    background-color: violet;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+    margin-top: 30px;
+}
+
+body{
+    background-size: cover;
+}
+
+input{
+    width:30%;
+}
